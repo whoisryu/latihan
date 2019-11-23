@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-var numbers = []int{8, 6, 4, 2, 0, 9}
+var numbers = []int{5, 3, 2, 5, 4, 2, 1}
 
 var k int
 
